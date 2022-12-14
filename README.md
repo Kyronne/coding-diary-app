@@ -1,6 +1,6 @@
 # coding-diary-app
 
-Creating a coding diary app using - sign in application auth
+Creating a coding diary app using sign in application auth
 
 MoSCoW:
 

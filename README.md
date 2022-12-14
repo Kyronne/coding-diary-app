@@ -10,6 +10,7 @@ Must have:
 - Alows coder to track their coding progress, what apps have they used to code.
 - Use Vercel Api to show latest deployments: https://vercel.com/docs/rest-api (GET /v6/deployments)
 - Fully responsive.
+- Good Morning/ Good Evening once logged in.
 
 Should have: 
 

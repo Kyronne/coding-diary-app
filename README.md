@@ -7,7 +7,7 @@ MoSCoW:
 Must have: 
 
 - Have a diary or to do list which can be added to and is persistent (backend).
-- Alows coder to track their coding progress, what apps have they used to code.
+- Alows coder to track their coding progress and select what programming languages they have used to code.
 - Use Vercel Api to show latest deployments: https://vercel.com/docs/rest-api (GET /v6/deployments)
 - Fully responsive.
 - Good Morning/ Good Evening once logged in.

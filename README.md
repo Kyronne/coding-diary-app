@@ -6,7 +6,7 @@ MoSCoW:
 
 Must have: 
 
-- Have a diary or to do list which can be added to, to show progress made on a calender that is updated.
+- Have a diary or to do list which can be added to and is persistent (backend).
 - Alows coder to track their coding progress, what apps have they used to code.
 - Use Vercel Api to show latest deployments: https://vercel.com/docs/rest-api (GET /v6/deployments)
 - Fully responsive.
@@ -15,12 +15,14 @@ Must have:
 Should have: 
 
 - Suggestions of things to learn pulled from a database randomly.
-- Profile page with overview, tech stack etc.
+- Show progress made on a calender that is updated.
+- Motivational quotes to keep coder motivated.
+
  
 Could have: 
 
 - AI that suggest further things to learn.
-- Motivational quotes to keep coder motivated.
+- Profile page with overview, tech stack etc.
 
 Not Have: 
 

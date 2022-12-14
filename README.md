@@ -19,6 +19,7 @@ Should have:
 Could have: 
 
 - AI that suggest further things to learn.
+- Motivational quotes to keep coder motivated.
 
 Not Have: 
 

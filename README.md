@@ -21,12 +21,14 @@ Should have:
  
 Could have: 
 
-- AI that suggest further things to learn.
+- Github Pages integration
 - Profile page with overview, tech stack etc.
+- Personal Blog about learning to code.
 
 Not Have: 
 
 - Explore further deployed App APIs and how they can be intergrated. 
-
+- Codewars Api to track progress - Api is buggy.
+- AI that suggest further things to learn.
 
 
